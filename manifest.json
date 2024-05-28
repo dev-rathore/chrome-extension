@@ -17,9 +17,9 @@
     "default_popup": "popup.html"
   },
   "icons": {
-    "16": "/images/extension_16.png",
-    "32": "/images/extension_32.png",
-    "48": "/images/extension_48.png"
+    "16": "/assets/extension_16.png",
+    "32": "/assets/extension_32.png",
+    "48": "/assets/extension_48.png"
   },
   "host_permissions": [
     "https://www.youtube.com/*"
@@ -40,9 +40,9 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "/images/extension_16.png",
-        "/images/extension_32.png",
-        "/images/extension_48.png"
+        "/assets/extension_16.png",
+        "/assets/extension_32.png",
+        "/assets/extension_48.png"
       ],
       "matches": [
         "https://*.youtube.com/*"
