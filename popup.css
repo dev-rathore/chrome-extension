@@ -1,0 +1,23 @@
+body {
+  background: #f4f2ff;
+}
+
+.wrapper {
+  width: 280px;
+  padding: 8px 18px 12px;
+  text-align: center;
+}
+
+.toggleImaginaryBtn {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+  color: #ffffff;
+  background: #400fd8;
+  cursor: pointer;
+}
+
+.footer {
+  padding-top: 20px;
+}
